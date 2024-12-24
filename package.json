@@ -1,0 +1,19 @@
+{
+  "name": "mongo-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "grunt": "^1.6.1",
+    "gulp": "^5.0.0",
+    "react": "^19.0.0",
+    "webpack": "^5.97.1"
+  }
+}
